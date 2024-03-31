@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/remove-outermost-parentheses/description/
+
 class Solution {
     public String removeOuterParentheses(String s) {
         StringBuilder result = new StringBuilder();
